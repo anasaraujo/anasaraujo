@@ -30,7 +30,7 @@ I'm excited to learn more and create new aplications.
 ### Find Me: ###
   <div>
         <a href="https://www.linkedin.com/in/anaaraujo/">
-           <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129622986-c6562991-3dbb-4f26-a597-629f9c9a1eb8.png'>
+           <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129624210-f316fbe6-2984-4519-ba19-a266339dd2a7.png'>
         </a>
         <a href="https://github.com/anasaraujo">
            <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129623823-4afa3249-4334-4a81-b5a4-3b75e64b2530.png'>
