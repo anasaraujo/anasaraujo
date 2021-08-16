@@ -11,13 +11,14 @@
 <div>
     I love people! I love socializing, sharing thougths and knwoledge, I like personal "contact" even when at distance of a VideoCall. <br>
     I live and work in Portugal, remotely... and I am not afraid of challenges and new adventures.<br>
-    
+    I'm a Bitcoin entusiastic, DJ30 and Crypto Trader, TA Analyst. No financial advice!<br>
+    I invest in protocols and assests that will change the world - then give them enough time to do their thing.<br>
     Favorite things to do: swimming, socializing, traveling, yoga, deep-house music and "cracking" the code.<br>
 </div>    
 <br>        
 <br>    
   
-## :rocket: Skills I'm learning ## 
+## What I know ## 
 <div>
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619433-52ea163e-7158-4a4e-8945-d07e8a3fa222.png'>
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619883-20dab533-4c88-42e0-8b35-e16d8c48e467.png'>
@@ -25,6 +26,20 @@
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619967-02de5112-8b64-4c2f-8e07-09382945e2ee.png'>
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619978-1027ef83-7b12-4b10-a19b-0434867f94ce.png'>
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619999-66eb2e41-a284-4f10-a726-e705098d5b10.png'>
+  <br>
+  <br>
+</div>
+<br>
+<br>
+
+## What I'm learning ## 
+<div>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627367-9e37e50f-f93c-495c-9bb7-7364010d70fd.png'>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627403-332687c5-85ab-440e-8f79-06f228969478.png'>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627444-194a8ac5-8e51-4d1b-8aa1-58ef4d7e2d8c.png'>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627468-0e150d1a-14e4-461f-b590-4cf4a60cff10.png'>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627503-0fe26914-6d6a-4d15-b035-1eae78bcaf02.png'>
+  <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129627555-3eb8ada2-7b1d-4664-9f9a-be584afd235c.png'>
   <br>
   <br>
 </div>
