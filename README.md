@@ -8,7 +8,7 @@ I'm excited to learn more and create new aplications.
 
 ### ⚡ 3 random facts about me:  ###
 <div>
-    I love people! I love socializing, sharing thougths and knwoledge, I like the personal "contact" even when at distance of a VideoCall :).
+    I love people! I love socializing, sharing thougths and knwoledge, I like personal "contact" even when at distance of a VideoCall :).
     I live and work in Portugal, remotely... and I am not afraid of challenges :) and adventures.
     Favorite things to do: swimming, socializing, traveling, yoga, deep-house music and "cracking" the code.
 </div>    
