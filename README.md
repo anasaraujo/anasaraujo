@@ -10,7 +10,8 @@
 ## ⚡ 3 random facts about me:  ##
 <div>
     I love people! I love socializing, sharing thougths and knwoledge, I like personal "contact" even when at distance of a VideoCall. <br>
-    I live and work in Portugal, remotely... and I am not afraid of challenges :) and adventures.<br>
+    I live and work in Portugal, remotely... and I am not afraid of challenges and new adventures.<br>
+    
     Favorite things to do: swimming, socializing, traveling, yoga, deep-house music and "cracking" the code.<br>
 </div>    
 <br>        
