@@ -1,7 +1,7 @@
 ## Hi there 👋  ##
 <div>
-    I’m currently looking for projects to work and colaborate.<br>
     I’m currently learning Front-End and Back-End Developing skills.<br>
+    I’m currently looking for projects to work and colaborate.<br>
     I'm excited to learn more and create new aplications.
 </div>
 <br>
