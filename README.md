@@ -52,7 +52,7 @@
         <a href="https://www.linkedin.com/in/anaaraujo/">
            <img align="left" width="45" height="45" src='https://user-images.githubusercontent.com/64487769/129624210-f316fbe6-2984-4519-ba19-a266339dd2a7.png'>
         </a>
-        <a href="https://github.com/anasaraujo">
+        <a href="mailto:asaraujo.ndlx@gmail.com">
            <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129623823-4afa3249-4334-4a81-b5a4-3b75e64b2530.png'>
         </a>
   </div>
