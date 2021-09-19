@@ -36,6 +36,7 @@
 <div>
 
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619999-66eb2e41-a284-4f10-a726-e705098d5b10.png'>
+  <img align="left" width="80" height="80" src='https://user-images.githubusercontent.com/64487769/129627468-0e150d1a-14e4-461f-b590-4cf4a60cff10.png'>
   <br>
   <br>
 </div>
@@ -47,7 +48,7 @@
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627367-9e37e50f-f93c-495c-9bb7-7364010d70fd.png'>
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627403-332687c5-85ab-440e-8f79-06f228969478.png'>
   <img align="left" width="80" height="80" src='https://user-images.githubusercontent.com/64487769/129627444-194a8ac5-8e51-4d1b-8aa1-58ef4d7e2d8c.png'>
-  <img align="left" width="80" height="80" src='https://user-images.githubusercontent.com/64487769/129627468-0e150d1a-14e4-461f-b590-4cf4a60cff10.png'>
+  
   <br>
   <br>
 </div>
