@@ -26,6 +26,7 @@
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619929-4dd98aee-9429-432c-9924-1603d633b078.png'>   
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619967-02de5112-8b64-4c2f-8e07-09382945e2ee.png'>
   <img align="left" width="50" height="50" src='https://user-images.githubusercontent.com/64487769/129619978-1027ef83-7b12-4b10-a19b-0434867f94ce.png'>
+    react-logo.png
   <br>
   <br>
 </div>
@@ -47,6 +48,7 @@
 ## What I'm learning next ## 
 <div>
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627367-9e37e50f-f93c-495c-9bb7-7364010d70fd.png'>
+  <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627403-332687c5-85ab-440e-8f79-06f228969478.png'>
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627403-332687c5-85ab-440e-8f79-06f228969478.png'>  
   <br>
   <br>
