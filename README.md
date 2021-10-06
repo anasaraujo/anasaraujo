@@ -49,7 +49,7 @@
 <div>
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627367-9e37e50f-f93c-495c-9bb7-7364010d70fd.png'>
   <img align="left" width="130" height="80" src='https://user-images.githubusercontent.com/64487769/129627403-332687c5-85ab-440e-8f79-06f228969478.png'>
-  <img align="left" width="80" height="80" src='https://user-images.githubusercontent.com/64487769/136248626-b82708b2-f0b2-49c3-8d75-a0b74c358b12.png'>  
+  <img align="left" width="80" height="80" src='https://user-images.githubusercontent.com/64487769/136249301-dd384740-ecbe-48c8-ab92-31cdd407a6b1.png'>  
   <br>
   <br>
 </div>
